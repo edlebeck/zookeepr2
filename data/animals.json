@@ -108,6 +108,15 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Alan",
+      "species": "Dolphin",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "11"
     }
   ]
 }
